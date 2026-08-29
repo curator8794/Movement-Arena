@@ -16,7 +16,7 @@ To allow others to join, EITHER follow the procedures outlined at https://deadlo
 Or, if you would like to use an ip connection, follow the procedures outlined at https://docs.deadworks.net/guides/server-hosting/
 
 MORE INFO:
-Upon running your server, an Accounts directory and a Live directory will be created in ??\Steam\steamapps\common\Deadlock\game\bin\win64
+Upon running your server, an Accounts directory will be created in ??\Steam\steamapps\common\Deadlock\game\bin\win64
 /Accounts will store some player settings and their experience points.
 /Live will store a file written to by the server as a health check
 
