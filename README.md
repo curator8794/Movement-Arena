@@ -7,7 +7,8 @@ To run a server:
 1. install the latest deadworks release from https://github.com/Deadworks-net/deadworks/releases
 2. Extract the release to ??\Steam\steamapps\common\Deadlock (right click deadlock on steam and click "manage > browse local files" to find this)
 3. Place the ChaseTag release in ??\Steam\steamapps\common\Deadlock\game\bin\win64\managed\plugins (create the plugins directory if it is not present)
-4. Run deadworks.exe (found in ??\Steam\steamapps\common\Deadlock\game\bin\win64)
+4. Download .Net 10 (https://dotnet.microsoft.com/en-us/download)
+5. Run deadworks.exe (found in ??\Steam\steamapps\common\Deadlock\game\bin\win64)
 
 Connecting to your server:
 To test out the server, open deadlock and type "connect localhost:27067" in your deadlock console.
